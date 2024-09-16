@@ -1,15 +1,16 @@
-<!---
-This is the title
---->
+<!--- This is the title --->
 # 👋 Hi, I’m @Jeimmy07
-<!---
-This is the body
---->
-- 👀 I’m interested in learning to programming 
-- 🌱 I’m currently learning github and markdown 
-- 📫 How to reach me: tao_toons@yahoo.es
-- 😄 Pronouns: She
-- ⚡ Fun fact: I am learning programming
+<!--- This is the body --->
+<!--- Interest section --->
+## These are my Interests
+- 👀 Learn programming
+- 🤓 Work as an expert
+- 😋 Save the world of programming
+<!--- Learning Section --->
+## Learning 
+- Github
+- Markdown
+  
   
 <!---
 Jeimmy07/Jeimmy07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +18,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <!---
 Instructions
-1. create a comment for the title
-2. Make the text "hi i am @Jeimmy07" as a mark down title 
-3. create a comment for the body
+1. creade a subtitle for your interests 
+2. Add more interests (at least two more) 
+3. Add a new subtitle for learning
+4. Inside your learning subtitle list with bullets github and markdown lenguage
+5. Add comments for each section
 --->
