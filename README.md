@@ -7,7 +7,7 @@
 - 🧖‍♀️ Advanced cosmetology techniques in facial and body care.
 - 🧠 Interest in psychology, emotional well-being and projects such as "Mi Centro Zen" En Facebook.
 - 🤖 Use of appliances and new technologies in beauty treatments.
-- 💚 Esperanto & Eenglish language learner
+- 💚 Esperanto & English language learner
 - 🎧 Melómana
 
 <!--- Learning Section --->
