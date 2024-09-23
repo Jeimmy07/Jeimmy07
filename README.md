@@ -4,8 +4,12 @@
 <!--- Interest section --->
 ## These are my Interests
 - 👀 Learn programming
-- 🤓 Work as an expert
-- 😋 Save the world of programming
+- 🧖‍♀️ Advanced cosmetology techniques in facial and body care.
+- 🧠 Interest in psychology, emotional well-being and projects such as "Mi Centro Zen" En Facebook.
+- 🤖 Use of appliances and new technologies in beauty treatments.
+- 💚 Esperanto & Eenglish language learner
+- 🎧 Melómana
+
 <!--- Learning Section --->
 ## Learning 
 - Github
